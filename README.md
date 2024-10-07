@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **HTML/CSS/JAvascript/CSS framework(Bootstrap/Tailwind)/React/Next JS/Problem Solving
+- 💬 Ask me about **HTML/CSS/JAvascript/CSS framework(Bootstrap/Tailwind)/React/Next JS/Problem Solving**
 - 📫 How to reach me **https://www.linkedin.com/in/anil-howa-163aa415a/**
-- ⚡ Fun fact, I think more but work so easy.
+- ⚡ Fun fact, **I think more but work so easy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
