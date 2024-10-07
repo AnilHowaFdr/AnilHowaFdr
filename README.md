@@ -4,13 +4,16 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilhowafdr&label=Profile%20views&color=0e75b6&style=flat" alt="anilhowafdr" /> </p>
 
 - 🔭 I’m currently working on **E-commerce Project**
+  
+- 🔭 I have completed more project and continuing more **Making Project**
 
 - 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **HTML/CSS/JAvascript/CSS framework(Bootstrap/Tailwind)/React/Next JS
+- 💬 Ask me about **HTML/CSS/JAvascript/CSS framework(Bootstrap/Tailwind)/React/Next JS/Problem Solving
 - 📫 How to reach me **https://www.linkedin.com/in/anil-howa-163aa415a/**
+- ⚡ Fun fact, I think more but work so easy.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
