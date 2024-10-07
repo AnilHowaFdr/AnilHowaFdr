@@ -9,8 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **I am a skilled Front-End Developer with over 2 years of experience in HTML, CSS, JavaScript, React, and Next.js. My goal is to deliver exceptional work that satisfies my clients’ needs. I pride myself on being a strong communicator, which allows me to collaborate effectively and meet deadlines while adhering to budget constraints. I approach my work responsibly, ensuring timely and high-quality completion of all objectives. I am always seeking new challenges to further enhance my front-end development skills. I would be honored to contribute to your team and help bring your vision to life.**
-
+- 💬 Ask me about **HTML/CSS/JAvascript/CSS framework(Bootstrap/Tailwind)/React/Next JS
 - 📫 How to reach me **https://www.linkedin.com/in/anil-howa-163aa415a/**
 
 <h3 align="left">Connect with me:</h3>
