@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilhowafdr" alt="anilhowafdr" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Project**
+- 🔭 I’m currently working on **Creative It Institute**
 
 - 🌱 I’m currently learning **Javascript**
+
+- 👯 I’m looking to collaborate on **New Project**
+
+- 🤝 I’m looking for help with **learning new technologies**
 
 - 👯 I’m looking to collaborate on **Github**
 
