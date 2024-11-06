@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Creative It Institute**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Node Js**
 
 - 👯 I’m looking to collaborate on **New Project**
 
